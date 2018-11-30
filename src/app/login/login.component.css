@@ -1,0 +1,25 @@
+.login_wrapper {
+    display: flex;
+    height: 418px;
+    align-items: center;
+    justify-content: center;
+  }
+  .login_card{
+    min-width: 550px;
+    /* min-height: 263px; */
+
+  }
+
+  .width_100{
+
+    float: left;
+    width: 100%;
+  }
+
+  .login_btn{
+      float: right;
+
+  }
+  .login_btn button{
+    margin: 16px;
+  }
